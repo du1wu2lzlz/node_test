@@ -1,0 +1,10 @@
+{
+    "name": "liggy-test2",
+    "version": "0.01",
+    "description": "First try about Node!",
+    "dependencies": {
+        "express": "2.5.2",
+        "jade": "0.19.0",
+        "mysql": "0.9.5"
+    }
+}
